@@ -3,7 +3,7 @@
 //jagged array
 //ragged array
 
-class TwoDArrayGain {
+public class TwoDArrayGain {
   public static void main(String args[]) {
     int twoD[][] = new int[4][];
     twoD[0] = new int[1];
