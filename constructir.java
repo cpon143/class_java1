@@ -35,3 +35,11 @@ class ThisDemo {
         ThisDemo d1=new ThisDemo();
     }
 }
+
+// Array decleration
+// int [] a,b; : 1D
+// int [] []a,b; :boath 2D
+// int [] []a,b[]; :a 2D, b 3D
+// int [] []a,[]b; :compiation Error 
+// int [] a[],[]b; :compiation Error 
+
